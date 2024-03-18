@@ -1,0 +1,15 @@
+*.pyc
+*.log
+*.html
+*.xlsx
+*temp.txt
+*test.*
+*.png
+*.pdf
+*.csv
+*.env
+*.idea
+**/__pycache__/
+**/log/
+**/file/
+

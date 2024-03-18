@@ -1,2 +1,2 @@
 # Basic
-python basic use
+> python中基本的使用
